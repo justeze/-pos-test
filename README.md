@@ -1,3 +1,9 @@
+# Nama : Faiz Sulistyawan
+
+# Track : Fullstack mobile developer
+
+# Batch : 17 - 1
+
 # -pos-test
 # Theory test section
 1. Framework merupakan kerangka kerja dimana kita dipermudah untuk mengerjakan sebuah porjek diatasnya, sedangkan library merupakan modul yang berisi metode untuk memecahkan sebuah masalah yang spesifik
